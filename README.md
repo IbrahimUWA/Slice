@@ -35,25 +35,27 @@ Precise localization is critical for autonomous vehicles. We present a self-supe
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-@article{Anwar2021R2NET,
-    title={Attention Prior for Real Image Restoration},
-    author={Saeed Anwar and Nick Barnes and Lars Petersson},
-    journal={IEEE Transactions on Neural Networks and Learning Systems (TNNLS)},
-    year={2021}
-
+@article{ibrahim2023unloc,
+  title={UnLoc: A Universal Localization Method for Autonomous Vehicles using LiDAR, Radar and/or Camera Input},
+  author={Ibrahim, Muhammad and Akhtar, Naveed and Anwar, Saeed and Mian, Ajmal},
+  journal={arXiv preprint arXiv:2307.00741},
+  year={2023}
 }
 
-@article{anwar2019ridnet,
-  title={Real Image Denoising with Feature Attention},
-  author={Anwar, Saeed and Barnes, Nick},
-  journal={IEEE International Conference on Computer Vision (ICCV-Oral)},
-  year={2019}
-}
+@ARTICLE{10046141,
+  author={Ibrahim, Muhammad and Akhtar, Naveed and Anwar, Saeed and Mian, Ajmal},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={SAT3D: Slot Attention Transformer for 3D Point Cloud Semantic Segmentation}, 
+  year={2023},
+  volume={24},
+  number={5},
+  pages={5456-5466},
+  doi={10.1109/TITS.2023.3243643}}
 
-@article{Anwar2020IERD,
-  author = {Anwar, Saeed and Huynh, Cong P. and Porikli, Fatih },
-    title = {Identity Enhanced Image Denoising},
-    journal={IEEE Computer Vision and Pattern Recognition Workshops (CVPRW)},
-    year={2020}
+@article{ibrahim2023slice,
+  title={Slice Transformer and Self-supervised Learning for 6DoF Localization in 3D Point Cloud Maps},
+  author={Ibrahim, Muhammad and Akhtar, Naveed and Anwar, Saeed and Wise, Michael and Mian, Ajmal},
+  journal={arXiv preprint arXiv:2301.08957},
+  year={2023}
 }
 ```
